@@ -1,6 +1,7 @@
 #!/bin/bash
 ############################################
 ### Terminator Tabbed by DaddyBigFish
+### Required tools: xdotool, terminator
 ############################################
 
 # Path to the temporary file
