@@ -1,8 +1,9 @@
 #!/bin/bash
 ############################################
 ### Terminator Tabbed by DaddyBigFish
-### Required tools: xdotool, terminator
-############################################
+# Requires: xdotool, terminator
+sudo apt install xdotool terminator -y
+###########################################
 
 # Path to the temporary file
 TMP_FILE="/tmp/tab_number"
